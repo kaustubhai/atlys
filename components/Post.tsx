@@ -49,7 +49,7 @@ export function Post<T>({ post, interactWithPost }: TableProps<T>) {
                 </div>
                 <div
                     id="post"
-                    className='bg-gray-800 rounded ml-8 w-full text-justify text-gray-500 focus:outline-none'>
+                    className='bg-gray-800 rounded ml-8 w-full text-gray-500 focus:outline-none'>
                     <p>
                         {post.post}
                     </p>

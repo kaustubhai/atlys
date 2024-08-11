@@ -40,7 +40,7 @@ export default function Wall() {
     ]
 
     return (
-        <div className="wall w-[50%] mx-auto my-20">
+        <div className="wall w-[50%] min-w-96 mx-auto my-10 md:my-20">
             <Modal
                 classNames={{
                     overlay: 'customOverlay',

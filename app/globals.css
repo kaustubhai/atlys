@@ -12,8 +12,6 @@
   backdrop-filter: blur(3px);
 }
 .customModal {
-  max-width: 400px;
-  width: 30%;
   display: flex;
   margin: auto;
   padding: 0px !important;

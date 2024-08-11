@@ -6,7 +6,7 @@ const CustomCloseIcon = () => (
         alt="Close"
         width={32}  // Adjust the width and height according to your needs
         height={32}
-        className='mr-4 mt-4'
+        className='mr-2 mt-2 md:mr-4 md:mt-4'
     />
 );
 
